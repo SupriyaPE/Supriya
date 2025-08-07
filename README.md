@@ -27,8 +27,8 @@ I'm a dedicated **Python Full Stack Developer** with a strong passion for buildi
 
 ## 🔗 Connect with Me
 
-- 📧 Email: [supriyape2002@gmail.com](mailto:supriyape2002@gmail.com)  
-- 💼 LinkedIn: [Supriya P E](https://www.linkedin.com/in/supriya-p-e-a285b825b)
+📧 Email:[supriyape2002@gmail.com](mailto:supriyape2002@gmail.com)  
+💼 LinkedIn: [Supriya P E](https://www.linkedin.com/in/supriya-p-e-a285b825b)
 
 ---
 
